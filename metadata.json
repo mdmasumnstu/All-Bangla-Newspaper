@@ -1,0 +1,6 @@
+{
+  "name": "All Bangla Newspaper",
+  "description": "Modern Bangladeshi Bengali news aggregator app with breaking updates, popular newspapers, category feeds, and bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
